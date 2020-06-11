@@ -3,8 +3,7 @@ package com.company;
 public class Atoi {
 
     public static void main(String[] args){
-        int result = convert("898989");
-        System.out.println(result);
+        
     }
 
     private static int convert(String s) {
